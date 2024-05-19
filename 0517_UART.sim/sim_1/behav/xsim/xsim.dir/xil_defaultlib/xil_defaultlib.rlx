@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/minseok/study/vivado/0517_UART/0517_UART.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+/home/minseok/study/vivado/0517_UART/0517_UART.srcs/sim_1/new/tb_uart.v,1716007039,verilog,,,,tb_uart,,,,,,,,
+/home/minseok/study/vivado/0517_UART/0517_UART.srcs/sources_1/new/button.v,1715917905,verilog,,/home/minseok/study/vivado/0517_UART/0517_UART.srcs/sources_1/new/uart.v,,button,,,,,,,,
+/home/minseok/study/vivado/0517_UART/0517_UART.srcs/sources_1/new/top.v,1715917897,verilog,,,,top,,,,,,,,
+/home/minseok/study/vivado/0517_UART/0517_UART.srcs/sources_1/new/uart.v,1716007156,verilog,,/home/minseok/study/vivado/0517_UART/0517_UART.srcs/sim_1/new/tb_uart.v,,baudrate_generator;transmitter;uart,,,,,,,,
