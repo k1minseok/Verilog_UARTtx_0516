@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May 16 15:44:04 2024
+# Process ID: 205544
+# Current directory: /home/minseok/study/vivado/0516_UART/0516_UART.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/minseok/study/vivado/0516_UART/0516_UART.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/minseok/study/vivado/0516_UART/0516_UART.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/minseok/study/vivado/0516_UART/0516_UART.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/minseok/study/vivado/0516_UART/0516_UART.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
