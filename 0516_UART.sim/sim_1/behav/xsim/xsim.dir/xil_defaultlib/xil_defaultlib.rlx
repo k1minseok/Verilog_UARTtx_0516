@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/minseok/study/vivado/0516_UART/0516_UART.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/minseok/study/vivado/0516_UART/0516_UART.srcs/sim_1/new/test_bench.sv,1715843538,systemVerilog,,,,test_bench,,uvm,,,,,,
+/home/minseok/study/vivado/0516_UART/0516_UART.srcs/sources_1/new/uart.v,1715879540,verilog,,,,baudrate_generator;transmitter;uart,,uvm,,,,,,
