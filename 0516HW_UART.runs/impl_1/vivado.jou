@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri May 17 04:22:37 2024
+# Process ID: 244662
+# Current directory: /home/minseok/study/vivado/0516HW_UART/0516HW_UART.runs/impl_1
+# Command line: vivado -log uart_test.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source uart_test.tcl -notrace
+# Log file: /home/minseok/study/vivado/0516HW_UART/0516HW_UART.runs/impl_1/uart_test.vdi
+# Journal file: /home/minseok/study/vivado/0516HW_UART/0516HW_UART.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source uart_test.tcl -notrace
